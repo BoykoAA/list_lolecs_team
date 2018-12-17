@@ -1,0 +1,1 @@
+feature_1,feature_2,feature_3,year,month,num_hist_transaction,sum_hist_trans,mean_hist_trans,std_hist_trans,min_hist_trans,max_hist_trans,num_merch_transactions,sum_merch_trans,mean_merch_trans,std_merch_trans,min_merch_trans,max_merch_trans,
